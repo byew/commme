@@ -3,8 +3,8 @@
 The four models are in /pytorch_transformers/modeling_bert.py  
 1:Class BertForSequenceClassification_gru  
 2:Class BertForSequenceClassification_grulstm  
-3:BertForSequenceClassification_last3  
-4:BertForSequenceClassification_last3_p  
+3:Class BertForSequenceClassification_last3  
+4:Class BertForSequenceClassification_last3_p  
 
 
 # run steps  
